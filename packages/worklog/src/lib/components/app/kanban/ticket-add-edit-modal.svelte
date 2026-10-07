@@ -321,17 +321,6 @@
     }
 
     const TAG_OPTIONS = [
-        "frontend",
-        "backend",
-        "design",
-        "docs",
-        "devops",
-        "auth",
-        "api",
-        "native",
-        "tauri",
-        "svelte",
-        "setup",
         "blocked",
     ];
 
